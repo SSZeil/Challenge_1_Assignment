@@ -1,0 +1,61 @@
+# Kickstarting with Excel
+
+## Overview of Project
+
+### Purpose
+
+Intention is to assist client in determining optimal situation in which to launch a 
+kickstarter campaign for the production of a play.   
+
+
+## Analysis and Challenges
+
+The most significant challenge was pulling meaning out of a significant amount of data.  
+The majority of the data pertained to non-theater and non-play items, for instance music 
+or artwork.  So, it helped to filter and focus on similar projects to that which the client
+has in mind - a play in the theater.
+
+
+### Analysis of Outcomes Based on Launch Date
+
+(I am unable to successfully attach the .PNG file here but that's the intent - please refer to attached file)
+It became clear that there is significant seasonality in the theater projects.  While cancelled 
+projects are relatively tiny in volume all year, both failed and successful projects have  a relatively 
+quiet season from Nov - March and a peak season of activity May through Oct, particularly May and June. 
+My recommendation is to aim for spring as the best time for a launch to be planned.
+
+
+### Analysis of Outcomes Based on Goals
+
+(I was unable to solve this excercise so I have limited data to evaluate)
+Approximately 45% of the successful projects had funding goals below $10,000. Several of the most 
+highly funded projects failed.  My recommendation is to try to keep the funding objectives at 
+the lower end of the spectrum, if possible, below $10,000 or $15,000.
+
+
+### Challenges and Difficulties Encountered
+
+My lack of Excel skills and function error problem solving was by far the most significant issue I dealt 
+with through this process.  And lack of planning far in advance to address with the resources available to us.
+
+
+## Results
+
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+	*Schedule for the Spring
+	*Keep costs and necessary funding low and simple
+	
+
+- What can you conclude about the Outcomes based on Goals?
+	*Having lavish budgets does not appear to be a guarantee for success
+	*Quite a lot of the successful projects were at the extreme low end of the budget spectrum
+	
+
+- What are some limitations of this dataset?
+	Size, although it can be filtered very successfully as the data is clean
+	
+
+- What are some other possible tables and/or graphs that we could create?
+
+I'd love to evaluate across Parent Categories and other Subcategories too, becoming familiar with 
+other types of industries and projects
